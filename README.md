@@ -1,4 +1,4 @@
-€ Sisseastuja meelespea
+# Sisseastuja meelespea
 
 Arvesta, et sessioonõppes on **koormus sama suur kui päevaõppes** – kuna kohapealset õpet on vähem, siis on iseseisva töö maht selle võrra suurem! Eriti suur koormus on esimesel õppeaastal ja praktika perioodidel. **Arvestama peab umbes 40 tunni iseseisva õppega nädalas** – see on täiskohaga töö koormus.
 
@@ -11,9 +11,10 @@ Seega – kui esialgse pingerea alusel sisse ei pääse, võib võimalus siiski 
 Lisaks on lävendi ületanud kandidaatidel võimalik õppima asuda **tasulisele kohale** Avatud akadeemia vahendusel (https://www.tlu.ee/avatudope). Kui õpingute vältel vabaneb erialal mõni tasuta õppekoht, on võimalik tasuliselt õppelt ümber asuda tasuta õppekohale (selleks peab olema semestris tehtud vähemalt **22,5 EAP**). 
 
 Olulised kuupäevad: 
-15.07.2025 - esialgne pingerida SAISi keskkonnas
-15.07 kuni 18.07.2025 - SAISis õppima tuleku kinnitamine või pakutud kohast loobumine
-15.08.2025 - pingerea alusel sisse saanud õppima tulija allkirjastatud lepingu saatmise tähtaeg http://www.tlu.ee/leping
-28.08.2025 - õppeaasta algus
 
-Kui oled kooli vastu võetud, kuid programmeerimisega vähe kokku puutunud, siis soovitame teha läbi Pythoni ja JavaScripti kursused veebikeskkonnas https://w3schools.com
+- 15.07.2025 - esialgne pingerida SAISi keskkonnas
+- 15.07 kuni 18.07.2025 - SAISis õppima tuleku kinnitamine või pakutud kohast loobumine
+- 15.08.2025 - pingerea alusel sisse saanud õppima tulija allkirjastatud lepingu saatmise tähtaeg http://www.tlu.ee/leping
+- 28.08.2025 - õppeaasta algus
+
+> [!NOTE] Kui oled kooli vastu võetud, kuid programmeerimisega vähe kokku puutunud, siis soovitame teha läbi Pythoni ja JavaScripti kursused veebikeskkonnas https://w3schools.com
