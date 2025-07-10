@@ -12,9 +12,10 @@ Lisaks on lävendi ületanud kandidaatidel võimalik õppima asuda **tasulisele 
 
 Olulised kuupäevad: 
 
-- 15.07.2025 - esialgne pingerida SAISi keskkonnas
-- 15.07 kuni 18.07.2025 - SAISis õppima tuleku kinnitamine või pakutud kohast loobumine
-- 15.08.2025 - pingerea alusel sisse saanud õppima tulija allkirjastatud lepingu saatmise tähtaeg http://www.tlu.ee/leping
+- **15.07.2025** - esialgne pingerida SAISi keskkonnas
+- **15.07 kuni 18.07.2025** - SAISis õppima tuleku kinnitamine või pakutud kohast loobumine
+- **15.08.2025** - pingerea alusel sisse saanud õppima tulija allkirjastatud lepingu saatmise tähtaeg http://www.tlu.ee/leping
 - 28.08.2025 - õppeaasta algus
 
-> [!NOTE] Kui oled kooli vastu võetud, kuid programmeerimisega vähe kokku puutunud, siis soovitame teha läbi Pythoni ja JavaScripti kursused veebikeskkonnas https://w3schools.com
+> [!NOTE]
+> Kui oled kooli vastu võetud, kuid programmeerimisega vähe kokku puutunud, siis soovitame teha läbi Pythoni ja JavaScripti kursused veebikeskkonnas https://w3schools.com
